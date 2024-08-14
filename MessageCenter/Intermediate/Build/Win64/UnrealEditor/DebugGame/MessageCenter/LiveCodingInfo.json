@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.MessageCenter.cpp.obj": [
+			"MessageBroadcastCenter.cpp.obj",
+			"MessageCenter.cpp.obj"
+		],
+		"Module.MessageCenter.gen.cpp.obj": [
+			"MessageBroadcastCenter.gen.cpp.obj",
+			"MessageCenter.init.gen.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,17 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "i:\\game development\\deeks\\deeksnight\\plugins\\messagecenter\\intermediate\\build\\win64\\unrealeditor\\debuggame\\messagecenter\\module.messagecenter.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "i:\\game development\\deeks\\deeksnight\\intermediate\\build\\win64\\fluffynurseryeditor\\debuggame\\engine\\sharedpch.engine.nonoptimized.shadowerrors.h.pch",
+        "Includes": [
+            "i:\\game development\\deeks\\deeksnight\\plugins\\messagecenter\\intermediate\\build\\win64\\unrealeditor\\debuggame\\messagecenter\\definitions.messagecenter.h",
+            "i:\\game development\\deeks\\deeksnight\\plugins\\messagecenter\\intermediate\\build\\win64\\unrealeditor\\inc\\messagecenter\\messagebroadcastcenter.gen.cpp",
+            "i:\\game development\\deeks\\deeksnight\\plugins\\messagecenter\\source\\messagecenter\\public\\messagebroadcastcenter.h",
+            "i:\\game development\\deeks\\deeksnight\\plugins\\messagecenter\\intermediate\\build\\win64\\unrealeditor\\inc\\messagecenter\\messagebroadcastcenter.generated.h",
+            "i:\\game development\\deeks\\deeksnight\\plugins\\messagecenter\\intermediate\\build\\win64\\unrealeditor\\inc\\messagecenter\\messagecenter.init.gen.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

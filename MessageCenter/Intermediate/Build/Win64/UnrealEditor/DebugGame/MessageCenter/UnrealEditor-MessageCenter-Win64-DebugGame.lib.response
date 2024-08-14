@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MessageCenter-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"I:\Game Development\Deeks\DeeksNight\Intermediate\Build\Win64\FluffyNurseryEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.h.obj"
+"I:\Game Development\Deeks\DeeksNight\Plugins\MessageCenter\Intermediate\Build\Win64\UnrealEditor\DebugGame\MessageCenter\Module.MessageCenter.cpp.obj"
+"I:\Game Development\Deeks\DeeksNight\Plugins\MessageCenter\Intermediate\Build\Win64\UnrealEditor\DebugGame\MessageCenter\Module.MessageCenter.gen.cpp.obj"
+"I:\Game Development\Deeks\DeeksNight\Plugins\MessageCenter\Intermediate\Build\Win64\UnrealEditor\DebugGame\MessageCenter\Default.rc2.res"
+/OUT:"I:\Game Development\Deeks\DeeksNight\Plugins\MessageCenter\Intermediate\Build\Win64\UnrealEditor\DebugGame\MessageCenter\UnrealEditor-MessageCenter-Win64-DebugGame.lib"
